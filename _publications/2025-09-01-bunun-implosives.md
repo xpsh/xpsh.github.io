@@ -3,7 +3,7 @@ title: "Articulatory characteristics of implosives in Bunun"
 collection: publications
 category: bookchapters
 permalink: /publication/2025-09-01-bunun-implosives
-excerpt:
+excerpt: ''
 date: 2025-09-01
 venue: 'Non-Pulmonic Consonants'
 status: 'under-review'
