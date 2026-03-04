@@ -23,7 +23,7 @@ repository               : "xpsh/xpsh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           :
   name             : "Kye Shibata"
   pronouns         : # example: "she/her"  
   bio              : "Historical linguist and phonetician. Focusing on Formosan languages."
