@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kye Shibata | Postdoctoral Research Fellow | Academia Sinica"
+title: "Kye Shibata - Postdoctoral Research Fellow at the Institute of Linguistics, Academia Sinica"
 author_profile: true
 redirect_from: 
   - /about/
