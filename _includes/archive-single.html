@@ -43,9 +43,9 @@
         {% elsif post.collection == 'publications' %}
           {% if post.status == 'accepted' or post.status == 'in-press' %} 
             <p>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% if post.status == 'under-review' %}
+          {% elsif post.status == 'under-review' %}
             <p>Under review</p>
-          {% if post.status == 'in-prep' %}
+          {% elsif post.status == 'in-prep' %}
             <p>In preparation</p>
           {% else %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
