@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am a postdoctoral research fellow at the Institute of Linguistics, Academia Sinica. I work on Austronesian historical linguistics with a focus on Formosan languages, and I also work in phonetics with a focus on the articulation of lateral consonants. 
 
 My current project focuses on the extinct "Western Plains" languages once spoken on the west coast of Taiwan, based on archival material collected during the late nineteenth and early twentieth centuries. 
