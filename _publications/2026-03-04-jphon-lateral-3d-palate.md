@@ -3,7 +3,7 @@ title: "Improved measurement of lateral parasagittal articulation integrating th
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-04-jphon-lateral-3d-palate
-excerpt:
+excerpt: ''
 date: 2026-03-04
 venue: 'Journal of Phonetics'
 status: 'in-press'
