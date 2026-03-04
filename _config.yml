@@ -31,10 +31,7 @@ author:
   employer         : "Academia Sinica"
   uri              : # URL
   email            : "kye.shibata@gmail.com"
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/files/shibata-cv.pdf"
+  cv               : "/files/shibata-cv.pdf"
 
   # Academic websites
   academia         : "https://sinica.academia.edu/KyeShibata" # URL
