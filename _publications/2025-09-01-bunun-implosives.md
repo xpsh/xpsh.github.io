@@ -1,7 +1,7 @@
 ---
 title: "Articulatory characteristics of implosives in Bunun"
 collection: publications
-category: chapter
+category: bookchapters
 permalink: /publication/2025-09-01-bunun-implosives
 excerpt: 'This chapter explores the articulatory characteristics of implosive stops in Bunun, utilizing an aerodynamic analysis compared with a laryngoscopic study.'
 date: 2025-09-01
