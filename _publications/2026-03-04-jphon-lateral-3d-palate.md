@@ -5,7 +5,8 @@ category: manuscripts
 permalink: /publication/2026-03-04-jphon-lateral-3d-palate
 excerpt: "This paper utilizes a 3D model of the speaker's palate to quantify lateral channel formation in the production of laterals, compared against non-laterals."
 date: 2026-03-04
-venue: 'Journal of Phonetics (in press)'
+venue: 'Journal of Phonetics'
+status: 'in-press'
 paperurl:
 citation: 'Shibata, Kye, Hsieh, Feng-fan, Chang, Yueh-chin, and Tiede, Mark. (in press). &quot;Improved measurement of lateral parasagittal articulation integrating three-dimensional palate shape.&quot; <i>Journal of Phonetics</i>.'
 ---
