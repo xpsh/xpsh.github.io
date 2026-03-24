@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2025-09-26-nthu-pocus
 venue: "The 2025 NTHU Linguistics Forum--Phonetics Workshop"
-date: 2025-06-12
+date: 2025-09-26
 location: "Hsinchu, Taiwan"
 excerpt: ""
 ---
