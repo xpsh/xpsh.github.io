@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-03-04-jphon-lateral-3d-palate
 excerpt: ''
-date: 2026-03-04
+date: 2026-05-01
 venue: 'Journal of Phonetics'
-status: 'in-press'
-paperurl:
+status: 'published'
+paperurl: https://doi.org/10.1016/j.wocn.2026.101492
 citation: 'Shibata, Kye, Hsieh, Feng-fan, Chang, Yueh-chin, and Tiede, Mark. (in press). &quot;Improved measurement of lateral parasagittal articulation integrating three-dimensional palate shape.&quot; <i>Journal of Phonetics</i>.'
 ---
 Abstract:
